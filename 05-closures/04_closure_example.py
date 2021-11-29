@@ -51,4 +51,5 @@ url2
   
 gdata = url1()     # Fetches http://www.google.com
 print(gdata)
+
 bdata = url2()     # Fetches http://www.bing.com
